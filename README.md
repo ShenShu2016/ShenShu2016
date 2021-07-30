@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on uwcssa.ca Web Project
 - 🌱 I’m currently learning ETL & Big Data Tools
+- 🤔 I love playing game, but mods always use C#
 - ⚡ Fun fact: I love Cats
-
+- 📫 How to reach me: shushen2013@gmail.com
 ### Connect with me:
 
 [<img align="left" alt="shushengacademy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
