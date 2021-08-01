@@ -48,13 +48,15 @@ Here are some ideas to get you started:
 ---
 
 ### GitHub Stats
+<!--START_SECTION:waka-->
+[![ShenShu2016's wakatime stats](https://github-readme-stats-shenshu2016.vercel.app/api/wakatime?username=ShenShu2016)](https://github.com/ShenShu2016/)
+<!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenShu2016&show_icons=true&theme=radical)](https://github.com/ShenShu2016/)
+<!--START_SECTION:waka-->
+[![ShenShu2016's GitHub stats](https://github-readme-stats-shenshu2016.vercel.app/api?username=shenshu2016&show_icons=true&theme=radical)](https://github.com/ShenShu2016/)
+<!--END_SECTION:waka-->
 
-
-[![ShenShu2016's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShenShu2016)](https://github.com/ShenShu2016/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenShu2016&layout=compact)](https://github.com/ShenShu2016/)
+[![Top Langs](https://github-readme-stats-shenshu2016.vercel.app/api/top-langs/?username=ShenShu2016&layout=compact)](https://github.com/ShenShu2016/)
 
 
 
