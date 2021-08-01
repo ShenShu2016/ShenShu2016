@@ -44,7 +44,17 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+<br />
+---
 
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenShu2016&show_icons=true&theme=radical)](https://github.com/ShenShu2016/)
+
+
+[![ShenShu2016's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShenShu2016)](https://github.com/ShenShu2016/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenShu2016&layout=compact)](https://github.com/ShenShu2016/)
 
 
 
@@ -53,3 +63,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/hodson2003/
 [linkedin]: https://www.linkedin.com/in/shenshu/
 [webdevplaylist]: https://shushengacademy.com
+
+
