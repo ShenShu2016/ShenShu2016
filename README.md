@@ -3,25 +3,27 @@
 <!--
 **ShenShu2016/ShenShu2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## I'm a Data analyst, Engineer, Scientist, and Software Developer!!
+<h3> 👨🏻‍💻 About Me </h3>
+## I'm a Data analyst & Engineer and Software Developer!!
 
 - 🔭 I’m currently working on uwcssa.ca Web Project
 - 🌱 I’m currently learning ETL & Big Data Tools
 - 🤔 I love playing game, but mods always use C#
 - ⚡ Fun fact: I love Cats
 - 📫 How to reach me: shushen2013@gmail.com
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | SQL  
+- 🌐 &nbsp; Django | React | AWS |HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | PostgreSQL | MangoDB
+- 🔧 &nbsp; Visual Studio code | PyCharm | Git
+- 🖥 &nbsp; Mircosoft Teams | Discord 
+
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="shushengacademy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -52,13 +54,14 @@ Here are some ideas to get you started:
 [![ShenShu2016's wakatime stats](https://github-readme-stats-shenshu2016.vercel.app/api/wakatime?username=ShenShu2016)](https://github.com/ShenShu2016/)
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:GitHub stats-->
 [![ShenShu2016's GitHub stats](https://github-readme-stats-shenshu2016.vercel.app/api?username=shenshu2016&show_icons=true&theme=radical)](https://github.com/ShenShu2016/)
-<!--END_SECTION:waka-->
+<!--END_SECTION:GitHub stats-->
 
+<!--START_SECTION:Top Langs-->
 [![Top Langs](https://github-readme-stats-shenshu2016.vercel.app/api/top-langs/?username=ShenShu2016&layout=compact)](https://github.com/ShenShu2016/)
 
-
+<!--END_SECTION:Top Langs-->
 
 [website]: https://shushengacademy.com
 [youtube]: https://www.youtube.com/channel/UC-yRvyQO3t04qffUiB1gsFg
