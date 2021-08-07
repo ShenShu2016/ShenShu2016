@@ -1,5 +1,4 @@
-### Hi there， I'm Shen - aka [ShenShu2016][website] 👋
-
+### Hi there， I'm Shen - aka [ShenShu2016][website] 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ShenShu2016/ShenShu2016.visitor-badge)
 <!--
 **ShenShu2016/ShenShu2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
