@@ -4,8 +4,8 @@
 
 -->
 
-<h3> 👨🏻‍💻 About Me </h3>
-## I'm a Data analyst & Engineer and Software Developer!!
+<h2> 👨🏻‍💻 About Me </h2>
+<h3> I'm a Data analyst & Engineer and Software Developer!!</h3>
 
 - 🔭 I’m currently working on uwcssa.ca Web Project
 - 🌱 I’m currently learning ETL & Big Data Tools
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love Cats
 - 📫 How to reach me: shushen2013@gmail.com
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Python | SQL  
 - 🌐 &nbsp; Django | React | AWS |HTML | CSS | JavaScript | Bootstrap 
