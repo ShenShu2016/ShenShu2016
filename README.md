@@ -15,9 +15,9 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | SQL  
-- 🌐 &nbsp; Django | React | AWS |HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | PostgreSQL | MangoDB
+- 💻 &nbsp; Python | SQL  | React | AWS 
+- 🌐 &nbsp; Django | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | GraphQL | PostgreSQL | MangoDB
 - 🔧 &nbsp; Visual Studio code | PyCharm | Git
 - 🖥 &nbsp; Mircosoft Teams | Discord 
 
