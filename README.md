@@ -5,7 +5,7 @@
 -->
 
 <h2> 👨🏻‍💻 About Me </h2>
-<h3> I'm a Data analyst & Engineer and Software Developer!!</h3>
+<h3> I'm a Data Engineer & Analyst and Web Developer!!</h3>
 
 - 🔭 I’m currently working on uwcssa.ca Web Project
 - 🌱 I’m currently learning ETL & Big Data Tools
