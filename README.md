@@ -1,4 +1,4 @@
-### Hi there， I'm Shen - aka [ShenShu2016][website] 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ShenShu2016/ShenShu2016.visitor-badge)
+### Hi there， I'm Shen - aka [ShenShu2016][website] 👋 
 <!--
 **ShenShu2016/ShenShu2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,6 @@
 <h2> 👨🏻‍💻 About Me </h2>
 <h3> I'm a Data Engineer & Analyst and Web Developer!!</h3>
 
-- 🔭 I’m currently working on uwcssa.ca Web Project
 - 🌱 I’m currently learning ETL & Big Data Tools
 - 🤔 I love playing game, but mods always use C#
 - ⚡ Fun fact: I love Cats
